@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>common-spring</module>
+  	<module>spring-mvc</module>
   </modules>
   
   <!-- 集中定义版本 -->
